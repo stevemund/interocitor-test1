@@ -1,6 +1,7 @@
 
 
-Abbreviation 	State Name 	Capital 	Became a State
+Abbreviation 	State Name 			Capital 			Became a State
+============	===================	=================	=================
 AL 	Alabama 	Montgomery 	December 14, 1819
 AK 	Alaska 	Juneau 	January 3, 1959
 AZ 	Arizona 	Phoenix 	February 14, 1912
