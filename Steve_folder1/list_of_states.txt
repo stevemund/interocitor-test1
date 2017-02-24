@@ -2,10 +2,10 @@
 
 Abbreviation 	State Name 			Capital 			Became a State
 ============	===================	=================	=================
-AL 	Alabama 	Montgomery 	December 14, 1819
-AK 	Alaska 	Juneau 	January 3, 1959
-AZ 	Arizona 	Phoenix 	February 14, 1912
-AR 	Arkansas 	Little Rock 	June 15, 1836
+AL 				Alabama 			Montgomery 			December 14, 1819
+AK 				Alaska 				Juneau 				January 3, 1959
+AZ 				Arizona 			Phoenix 			February 14, 1912
+AR 				Arkansas 			Little Rock 		June 15, 1836
 CA 	California 	Sacramento 	September 9, 1850
 CO 	Colorado 	Denver 	August 1, 1876
 CT 	Connecticut 	Hartford 	January 9, 1788
